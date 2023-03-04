@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @SurWeaver
-- 👀 I’m interested in developing jam games or something with the same scale.
-- 🌱 I’m currently learning in C#, JS, Godot, GMS
+- 👀 I make my pet project in recently released stable version of Godot 4. Sometimes I participate in game jams. I like to make some small but sturdy stuff. Very occasionally the source codes of my applications appear here.
+- 🌱 I mostly use Godot for game development; C# and Blazor at my work. Sometimes I use Python, GameMaker Studio (1.4, 2) for momentary needs.
 - 📫 How to reach me:
-     https://surweaver.itch.io/
+     https://vk.com/surweaver
      https://t.me/SurWeaver
-     https://twitter.com/SurWeaver
+     https://surweaver.itch.io/
+     https://twitter.com/SurWeaver (Well, now I can't use it, lol, don't make me use VPN, pls)
      
 
 <!---
